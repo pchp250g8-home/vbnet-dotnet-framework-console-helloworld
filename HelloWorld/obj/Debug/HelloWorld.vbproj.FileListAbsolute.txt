@@ -1,0 +1,11 @@
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.AssemblyReference.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
